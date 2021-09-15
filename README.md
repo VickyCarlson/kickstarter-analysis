@@ -16,7 +16,7 @@ By analyzing theater outcomes based on launch date, it appears that the best mon
 
 May was the peak month to start a campaign. It had the greatest number of successful campaigns (111) compared to the previous month of only 71 successes. Other than a slight uptick in October, successful campaigns fell every month after May until January. December was the least successful month to launch a campaign, with only 37 successful and 35 failed campaigns.
 
-![Theater_Outcomes_vs_Launch.png] (https://github.com/VickyCarlson/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -25,7 +25,7 @@ There were three possible outcomes for the subcategory of plays: successful, fai
 The highest percentage of successful campaigns were for those that had goals equal to or below $4,999.00. Campaigns from $35,000.00 to $44,999.00 also had a high rate of success.
 The highest chance of failure for campaigns were those with a goal higher than $45,000.00. Campaigns with goals from $20,000.00 to $34,999.00 also had a lower chance of success.
 
-![Outcomes_vs_Goals.png] (https://github.com/VickyCarlson/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
