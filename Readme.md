@@ -2,21 +2,22 @@
 
 ## Overview of Project
 
-This project was based on data accumulated over nine years from a variety of countries and categories. Louise’s play, *Fever*, came close to being fully funded, but was not successful. Our assignment was to analyze data from other fundraising campaigns in Excel to help Louise determine if a different fundraising strategy might help her achieve success. An analysis of theater outcomes based on launch dates and outcomes based on goals were created to view what might help her in future endeavors. The projected utilized a variety of techniques to perform this analysis, including several formulas, pivot tables and charts.
+This project was based on data accumulated over nine years from a variety of countries and categories. Louise’s play, *Fever*, came close to being fully funded, but was not successful. This project analyzed data from other fundraising campaigns in Excel to determine if a different fundraising strategy might help Louise achieve a more successful campaign. I analyzed the outcomes of fundraising campaigns in the theater category to see what the effect of the launch date had on the success of the campaign. I also did an analysis of the outcomes of the campaigns based on the goal amount of the campaign to see if donation amount had an effect on the outcome so that Louise could make different decisions in future endeavors. Several Excel skills were used to complete the analysis, including conditional formatting, filters, pivot tables, VLOOKUP formulas, formulas to account for measures of central tendency and spread, and charts to visually portray the analysis of outcomes based on launch date and outcomes based on goals.
 
 ### Purpose
 
-The purpose of this analysis is to determine what the effect of launch date and funding goals had on the success of a fundraising campaign. Because Louise’s play came close to its fundraising goal, but was not successful, she would like to know if the launch date or amount of the fundraising goal for other plays affected the outcome of the success of the campaign. Based on this analysis Louise could use this information to evaluate different strategies to have a higher probability of achieving a successful fundraising campaign.
+The purpose of this analysis is to determine what the effect of launch date and funding goals had on the success of a fundraising campaign. Because Louise’s play came close to achieving the fundraising goal, but was not successful, she would like to know if the launch date or amount of the fundraising goal for other plays affected the outcome of the success of the campaign. Based on this analysis Louise could use this information to evaluate different strategies to have a higher probability of achieving a successful fundraising campaign.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-By analyzing theater outcomes based on launch date, it appears that the best months to launch a fundraising campaign are May and June, with July following up as a close third. The greatest number of successful campaigns were launched during those months. Although the number of failed campaigns also rose slightly during those months, it was a very modest increase compared to the sharp increase in successful campaigns.
+By analyzing theater outcomes based on launch date, it appears that the best months to launch a fundraising campaign are May and June, with July numbers still showing a good success rate. The highest amount of campaigns overall occurred in each of these three months, and the greatest number of **successful** campaigns were launched during those months. Even though the number of **failed** campaigns also increased slightly during those months, the increase was very modest compared to the much higher increase in successful campaigns. 
 
-May was the peak month to start a campaign. It had the greatest number of successful campaigns (111) compared to the previous month of only 71 successes. Other than a slight uptick in October, successful campaigns fell every month after May until January. December was the least successful month to launch a campaign, with only 37 successful and 35 failed campaigns.
 
-![Theater_Outcomes_vs_Launch.png] (/Resources/Theater_Outcomes_vs_Launch.png)
+The peak month to start a campaign was in May. The greatest number of successful campaigns occurred during May (111), followed by June (100) and then July (87). Other than a slight uptick in October, successful campaign numbers dropped every month after May until January. December was the least successful month to launch a campaign, with only 37 successful and 35 failed campaigns.
+
+![Theater_Outcomes_vs_Launch.png](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -25,7 +26,7 @@ There were three possible outcomes for the subcategory of plays: successful, fai
 The highest percentage of successful campaigns were for those that had goals equal to or below $4,999.00. Campaigns from $35,000.00 to $44,999.00 also had a high rate of success.
 The highest chance of failure for campaigns were those with a goal higher than $45,000.00. Campaigns with goals from $20,000.00 to $34,999.00 also had a lower chance of success.
 
-![Outcomes_vs_Goals.png] (/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
